@@ -1,0 +1,18 @@
+{
+    "name": "kra/ivory-cities",
+    "description": "this package retrieve all the ivory cities",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jacob",
+            "email": "krakouassijacob@yahoo.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kra\\IvoryCities\\": "packages/kra/ivory-cities/src"
+        }
+    }
+}
